@@ -1,5 +1,3 @@
-# DC-DC-Buck-Converter
-EE 252 Course Project
 # DC-DC Buck Converter Design and Implementation
 
 **Course:** EE 252: Electrical Machines and Power Electronics Lab (EMPEL)  
